@@ -29,7 +29,7 @@ class LogToFile {
             e.printStackTrace();
         }
 
-        logger.info("Hey Leticia Are You?");
+        logger.info("In GitHub");
 
     }
 }
